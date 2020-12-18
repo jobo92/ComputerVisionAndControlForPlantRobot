@@ -1,8 +1,8 @@
 /*
   # Face tracking using arduino - Code #
   # Code by Harsh Dethe
-  # Edited by Mathias
   # 09 Sep 2018.
+  Modified by Mathias and Sidsel
 */
 
 #include<Servo.h>

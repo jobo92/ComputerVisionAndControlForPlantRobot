@@ -6,6 +6,7 @@
     Upload the Arduino code before executing this code.
 
     # Code by Harsh Dethe, 09 Sep 2018 #
+	#edited by Mathias
 """
 #import numpy as np
 import serial

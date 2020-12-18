@@ -1,9 +1,0 @@
-cd C:\Users\Mathi\OneDrive\SDU\x E2O\Robotic Art and Soft Robotics, (E20)\CV Face Tracking
-
-.\env\Scripts\activate
-
-python face.py
-
-python myFacetracking.py
-
-python myFacetrackingGray.py

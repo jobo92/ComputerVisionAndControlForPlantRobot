@@ -5,6 +5,8 @@
 // Based on "Simple Motor Shield sketch" (June 2012, Open Source / Public Domain) By arduino.cc user "Krodal".
 // (A simple sketch for the motor shield without using the Adafruit library)
 
+// Modified by Mathias and Sidsel
+
 // Connector usage
 // ---------------
 // The order is different than what you would expect.
